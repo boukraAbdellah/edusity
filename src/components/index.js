@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar.jsx'
+export { default as Programs } from './Programs.jsx'
+export { default as About } from './About.jsx'
+export { default as Gallery } from './Gallery.jsx'
+export { default as Testimonials } from './Testimonials.jsx'
+export { default as Hero } from './Hero.jsx'
+export { default as Footer } from './Footer.jsx'
